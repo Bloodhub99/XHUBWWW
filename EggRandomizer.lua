@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/as1An286PnXVBHNd/raw", true))()
+loadstring(game:HttpGet("https://pastefy.app/C5HFCqqo/raw"))()
 -- Visual pet hatch simulator with drag, ESP, auto random, pet age loader
 local Players = game:GetService("Players")
 local Workspace = game:GetService("Workspace")
